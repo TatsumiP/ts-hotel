@@ -1,0 +1,9 @@
+.flex__row {
+  display: flex;
+  flex-flow: row nowrap;
+}
+.flex__row_center {
+  align-items: center;
+  justify-content: center;
+}
+/*# sourceMappingURL=flex.module.css.map */
